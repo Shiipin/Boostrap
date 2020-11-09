@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04d408a4-2e3f-4cc7-9d42-d60970abb258" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="04d408a4-2e3f-4cc7-9d42-d60970abb258" name="Default Changelist" comment="J'ai ajouté un paragraphre Test commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,12 +53,24 @@
       <workItem from="1604661200745" duration="2517000" />
       <workItem from="1604674739804" duration="967000" />
       <workItem from="1604675725963" duration="1120000" />
-      <workItem from="1604911842647" duration="2855000" />
+      <workItem from="1604911842647" duration="3047000" />
     </task>
+    <task id="LOCAL-00001" summary="J'ai ajouté un paragraphre Test commit">
+      <created>1604917440447</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604917440447</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="J'ai ajouté un paragraphre Test commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="J'ai ajouté un paragraphre Test commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="267" y="278" key="FileChooserDialogImpl" timestamp="1604913743204">
