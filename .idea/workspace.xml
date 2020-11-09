@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04d408a4-2e3f-4cc7-9d42-d60970abb258" name="Default Changelist" comment="" />
+    <list default="true" id="04d408a4-2e3f-4cc7-9d42-d60970abb258" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +55,7 @@
       <workItem from="1604661200745" duration="2517000" />
       <workItem from="1604674739804" duration="967000" />
       <workItem from="1604675725963" duration="1120000" />
-      <workItem from="1604911842647" duration="3864000" />
+      <workItem from="1604911842647" duration="4276000" />
     </task>
     <task id="LOCAL-00001" summary="J'ai ajouté un paragraphre Test commit">
       <created>1604917440447</created>
@@ -69,7 +71,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604918103631</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="J'ai ajouté un paragraphre Test commit">
+      <created>1604918417172</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604918417172</updated>
+    </task>
+    <task id="LOCAL-00004" summary="J'ai ajouté un titre Test commit">
+      <created>1604918620733</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604918620733</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,13 +93,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="J'ai ajouté un paragraphre Test commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="J'ai ajouté un paragraphre Test commit" />
+    <MESSAGE value="J'ai ajouté un titre Test commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="J'ai ajouté un titre Test commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1604918103211">
+    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1604918620331">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604918103211" />
+    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604918620331" />
     <state x="267" y="278" key="FileChooserDialogImpl" timestamp="1604913743204">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -100,5 +117,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604918370896" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1604918626756">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604918626756" />
   </component>
 </project>
