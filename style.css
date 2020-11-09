@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+}
+
+h3 {
+    font-style: italic;
+    color: blue;
+}
+#p1 {
+    font-style: oblique;
+    color: blue;
+}
+
+.p2 {
+    font-style: revert;
+    background-color: red;
+}
+
+header {
+    background-color: yellow;
+    height : 40vh;
+}
+
+aside {
+    background-color: blueviolet;
+    height: 20vh;
+    width: 50vw;
+    margin-left: 50vw;
+}
+
+section {
+    background-color: blue;
+    height: 20vh;
+    width: 50vw;
+    margin-top: -20vh;
+
+}
+
+
+footer {
+    background-color: red;
+    height: 40vh;
+
+}
+
