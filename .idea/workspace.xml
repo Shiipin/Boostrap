@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04d408a4-2e3f-4cc7-9d42-d60970abb258" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="04d408a4-2e3f-4cc7-9d42-d60970abb258" name="Default Changelist" comment="J'ai ajouté un titre en section" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +54,7 @@
       <workItem from="1604674739804" duration="967000" />
       <workItem from="1604675725963" duration="1120000" />
       <workItem from="1604911842647" duration="4276000" />
+      <workItem from="1605255868823" duration="379000" />
     </task>
     <task id="LOCAL-00001" summary="J'ai ajouté un paragraphre Test commit">
       <created>1604917440447</created>
@@ -85,16 +84,35 @@
       <option name="project" value="LOCAL" />
       <updated>1604918620733</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="J'ai ajouté un titre en section">
+      <created>1605256162977</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605256162977</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="J'ai ajouté un paragraphre Test commit" />
     <MESSAGE value="J'ai ajouté un titre Test commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="J'ai ajouté un titre Test commit" />
+    <MESSAGE value="J'ai ajouté un titre en section" />
+    <option name="LAST_COMMIT_MESSAGE" value="J'ai ajouté un titre en section" />
   </component>
   <component name="WindowStateProjectService">
     <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1604918620331">
