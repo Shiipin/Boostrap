@@ -1,45 +1,87 @@
-body{
-    margin: 0;
-}
-
-h3 {
-    font-style: italic;
-    color: blue;
-}
-#p1 {
-    font-style: oblique;
-    color: blue;
-}
-
-.p2 {
-    font-style: revert;
-    background-color: red;
+body {
+    margin : 0;
 }
 
 header {
-    background-color: yellow;
-    height : 40vh;
+    background-color : yellow;
+    height : 20vh;
 }
 
-aside {
-    background-color: blueviolet;
-    height: 20vh;
-    width: 50vw;
-    margin-left: 50vw;
+nav {
+    display : block;
+    background-color : blueviolet;
+    width : 20vw;
+    height : 60vh;
 }
 
 section {
-    background-color: blue;
-    height: 20vh;
-    width: 50vw;
-    margin-top: -20vh;
-
+    background-color : blue;
+    width : 70vw;
+    margin-left : 20vw;
+    margin-top : -60vh;
+    height : 60vh;
 }
 
+aside {
+    background-color: #4e555b;
+    width: 10vw;
+    margin-left: 90vw;
+    margin-top: -60vh;
+    height: 60vh;
+}
 
 footer {
-    background-color: red;
-    height: 40vh;
+    background-color : red;
+    height : 20vh;
+}
+
+#gauche {
+    width: 35vw;
+    height: 60vh;
+    background-color: #6c757d;
 
 }
 
+#droite {
+    width: 35vw;
+    height: 60vh;
+    background-color:magenta;
+    margin-left: 35vw;
+    margin-top: -60vh;
+}
+
+#header1 {
+    width: 35vw;
+    height: 15vh;
+    background-color: #533f03;
+}
+
+#article1 {
+    width: 35vw;
+    height: 30vh;
+    background-color: salmon;
+}
+
+#footer1 {
+    width: 35vw;
+    height: 15vh;
+    background-color: peachpuff;
+}
+
+#header2 {
+    width: 35vw;
+    height: 15vh;
+    background-color: #1c7430;
+}
+
+#article2 {
+    width: 35vw;
+    height: 30vh;
+    background-color: #17a2b8;
+}
+
+#footer2 {
+    width: 35vw;
+    height: 15vh;
+    background-color: #721c24;
+}

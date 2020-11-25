@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="04d408a4-2e3f-4cc7-9d42-d60970abb258" name="Default Changelist" comment="J'ai ajouté un titre en section" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +72,7 @@
       <workItem from="1604674739804" duration="967000" />
       <workItem from="1604675725963" duration="1120000" />
       <workItem from="1604911842647" duration="4276000" />
-      <workItem from="1605255868823" duration="379000" />
+      <workItem from="1605255868823" duration="1255000" />
     </task>
     <task id="LOCAL-00001" summary="J'ai ajouté un paragraphre Test commit">
       <created>1604917440447</created>
@@ -91,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605256162977</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="J'ai ajouté un titre en section">
+      <created>1605256355633</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605256355633</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,9 +144,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604918620331" />
-    <state x="267" y="278" key="FileChooserDialogImpl" timestamp="1604913743204">
+    <state x="267" y="278" key="FileChooserDialogImpl" timestamp="1605258108420">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="267" y="278" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605258108420" />
     <state x="267" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604913743204" />
     <state x="764" y="417" width="317" height="205" key="Github.ShareDialog" timestamp="1604914161093">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -135,9 +161,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604918370896" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1604918626756">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1605256391013">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605256391013" />
     <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604918626756" />
   </component>
 </project>
